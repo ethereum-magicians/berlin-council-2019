@@ -1,16 +1,16 @@
 ---
 layout: poster
-title: Summer 2018 Council of Berlin
+title: Magicians Berlin Council 2019
 sidebar_link: false
 ---
 
-## Fellowship of Ethereum Magicians' Council
+## Fellowship of Ethereum Magicians Council 2019
 
 ### Event Summary
 
 ``` bash
-July 14-15 (and on the eve of July 13th)
-Berlin, Germany at c-base
+August 20 (and till August 24th)
+Berlin, Germany at Funkhaus and Parity office 
 
 Technical discussions & governance as they relate to the Ethereum 
 project and Ethereum Improvement Proposals (EIPs).
@@ -18,7 +18,7 @@ project and Ethereum Improvement Proposals (EIPs).
 All are welcome! Please read our open invitation to participate.
 
 Propose topics: https://ethereum-magicians.org
-Register: https://ethereum-magicians.github.io/berlin-council
+Add topic: [Council Topics & individual ring meetings - Berlin 2019](https://docs.google.com/spreadsheets/d/16pYOZSjzDhOO5BTb7a3u_pBmU0529OsZPlgRw2DLkI0/edit#gid=0)
 ```
 
 
