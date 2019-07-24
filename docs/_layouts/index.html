@@ -1,0 +1,51 @@
+---
+layout: page
+---
+
+<div class="content">
+  {% include pagination-newer.html %}
+
+  {{ content }}
+
+  {% for post in paginator.posts %}
+  <article class="post-body">
+    <h2 class="post-title">
+      {% if post.link %}
+      <a href="{{ post.link }}">
+        {{ post.title }}
+      </a>
+      {% else %}
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+      {% endif %}
+    </h2>
+    {% include post-meta.html post=post %}
+
+    {% if post.excerpt %}
+      {{ post.excerpt }}
+      {% if post.link %}
+      <span class="permalink"></span><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">#</a></span>
+      {% endif %}
+    {% else %}
+      {{ post.content }}
+    {% endif %}
+
+    {% if post.excerpt %}
+      {% comment %}Excerpt may be equal to content. Check.{% endcomment %}
+      {% capture content_words %}
+        {{ post.content | number_of_words }}
+      {% endcapture %}
+      {% capture excerpt_words %}
+        {{ post.excerpt | number_of_words }}
+      {% endcapture %}
+
+      {% if content_words != excerpt_words %}
+        <a href="{{ site.baseurl }}{{ post.url }}">More &hellip;</a>
+      {% endif %}
+    {% endif %}
+  </article>
+  {% endfor %}
+
+  {% include pagination-older.html %}
+</div>
