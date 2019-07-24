@@ -12,28 +12,33 @@ The Council of Berlin is one of the three tri-annual in-person gatherings of the
 * The Mission. To Nurture Community Consensus on the technical direction and specification of Ethereum.
 * The Work. Primarily, high-quality Ethereum Improvement Proposals (EIPs), accepted by a consensus of the Community.
 
-Read the entire [Fellowship Proposal](https://goo.gl/DrJRJV) for more background.
+Read the entire [Fellowship Proposal](https://goo.gl/DrJRJV) for more background and article about Ethereum Magicians Berlin Council 2019 [Article](https://medium.com/@AnettRolikova/lets-create-magic-and-talk-about-what-s-important-in-the-ethereum-ecosystem-45c94878fe3c)
 
 _Note: The Fellowship of Ethereum Magicians is not currently a formal organization or corporation._
 
 ## Planners & Organizers
 
 Community Organizers
-* Greg Colvin
-* Jamie Pitts
+* Jamie Pitts 
+* Anett Rolikova 
 
 Logistics Support in Berlin
 * [Web3 Foundation](http://web3.foundation), led by Ashley Tyson
+* [Parity](https://www.parity.io/), led by Carol-Ann O'Hagan
 
 Event Volunteers
 * Boris Mann
-* Dani Bellavita
+* Dimi (Ethernian)
+* Anna from Fluence.network
+* Thomas Jay Rush
+* Pet3erpan
+* Alex Gluchowski
 
 ## Resources
 
-* [Public planning wiki](https://ethereum-magicians.org/t/berlin-council-planning-wiki-feedback/325)
+* [Public planning wiki](https://ethereum-magicians.org/t/magicians-berlin-council-2019-call-for-topics-and-eips-to-discuss/3425/3)
 * [Github repo for this website](https://github.com/ethereum-magicians/berlin-council) - please raise issues / submit pull requests to improve the site!
-* [Public Gitter for discussion](https://gitter.im/ethereum-magicians/berlin-council)
+* [Public Telegram for discussion](https://t.me/ETHMagicians)
 * [Notes from the first event, EthCC in Paris, March 2018](https://docs.google.com/document/d/1rgQnZKpNc71XUotSTVmHt9La8y3_yKi8te1bH396AWA/edit)
 
 Website theme [Hydeout by Andrew Fong](https://github.com/fongandrew/hydeout/).
