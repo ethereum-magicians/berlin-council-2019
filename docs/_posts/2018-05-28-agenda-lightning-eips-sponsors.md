@@ -10,4 +10,4 @@ We are making a "Call for Lightning EIP Talks". We want to provide space where p
 
 Is your project or company interested in sponsoring to cover costs? Check out the [Sponsor Overview](https://docs.google.com/document/d/1oIErPvt0ElTJFypA5S06eYpAxHaF4Cef7DErWHVOT18/edit?usp=sharing).
 
-If you would like to get notifications by email and/or to send us feedback privately, please  [fill out the sign up form](https://goo.gl/forms/WThEqiiv3kFHaKwM2). Otherwise, stay tuned to this site and the new [@EthMagicians](https://twitter.com/EthMagicians) twitter handle.
+If you would like to get notifications by email and/or to send us feedback privately, please  [fill out the sign up form](https://forms.gle/ndZLgjYszPFQLRsA8). Otherwise, stay tuned to this site and the new [@EthMagicians](https://twitter.com/EthMagicians) twitter handle.
