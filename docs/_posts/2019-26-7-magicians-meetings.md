@@ -15,7 +15,7 @@ We are also confirming that the date will be **August 20th**, and the venue will
 
 Please do let us know if you'll join us -- or any other comments -- by [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLScNmzJK5Y3qxeauCo93Du9yJT9MONsfaF4GUsGAEqLID3MqBQ/viewform).
 
-You are more than welcome to [join us on Telegram](https://t.me/ETHMagicians) for the discussion.
+You are more than welcome to [join us on Telegram](https://t.me/ETHMagicians) for the updates and discussion.
 <!-- more -->
 
 
