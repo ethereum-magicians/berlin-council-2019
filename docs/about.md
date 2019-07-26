@@ -33,6 +33,7 @@ Event Volunteers
 * Thomas Jay Rush
 * Pet3erpan
 * Alex Gluchowski
+* Dominic
 
 ## Resources
 
