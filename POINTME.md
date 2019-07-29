@@ -26,6 +26,6 @@ Individual Ring meetings can be held in Parity office. [Check the availability o
 
 Anette is this Council's coordinator.
 
-[https://t.me/ETHMagicians](Council Planners Telegram channel )
+[Council Planners Telegram channel](https://t.me/ETHMagicians)
 
 
