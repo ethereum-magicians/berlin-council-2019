@@ -26,7 +26,8 @@ Parity has offered their Berlin offices for Ring sessions! [Check the availabili
 
 ## Coordination / Volunteering
 
-Anett is this Council's coordinator. If you want to help with Council coordination, send a message to Anett - she will send you invite :)
+Anett is this Council's coordinator. If you want to help with Council coordination, send a message to Anett - she will send you invite link to Council organisers group chat or contact her if you want to help / need help. She's happy to answer.
+
 [Anett's Telegram](https://t.me/anettrolikova)
 
 We created Template for Ring Meeting Notes - please copy this and use it for taking notes 
