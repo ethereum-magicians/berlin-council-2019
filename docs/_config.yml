@@ -7,7 +7,7 @@ title:            'Magicians Berlin Council 2019'
 tagline:          'Magicians Berlin Council 2019 - Fellowship of Ethereum Magicians'
 description:      'The Fellowship of Ethereum Magicians will gather in Berlin from August 20-24, 2019. All are welcome to participate!'
 url:              https://ethereum-magicians.github.io
-baseurl:          /berlin-council
+baseurl:          /berlin-council-2019
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
