@@ -26,8 +26,15 @@ Parity has offered their Berlin offices for Ring sessions! [Check the availabili
 
 ## Coordination / Volunteering
 
-Anette is this Council's coordinator.
+Anett is this Council's coordinator. If you want to help with Council coordination, send a message to Anett - she will send you invite :)
+[Anett's Telegram](https://t.me/anettrolikova)
 
-[Council Planners Telegram channel](https://t.me/ETHMagicians)
+We created Template for Ring Meeting Notes - please copy this and use it for taking notes 
+[Individual Ring Meeting Notes (template)](https://hackmd.io/@Bnkhqf0tSbi1lX2Xc-WXYQ/SkeWwcSGS) - HackMD 
+
+We created checklist for ring meeting leaders withc checklist to make sure everyone will have the best experience from ring meeting 
+[FEM Ring Toolkit](https://hackmd.io/@Bnkhqf0tSbi1lX2Xc-WXYQ/SkeWwcSGS) - HackMD
+
+
 
 
