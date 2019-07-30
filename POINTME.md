@@ -14,7 +14,6 @@ This event is for the community to come together and discuss Ethereum, the impro
 
 [FEM Telegram Channel](https://t.me/ETHMagicians)
 
-[FEM Gitter Channel](https://gitter.im/ethereum-magicians/Lobby)
 
 ## Agenda
 
