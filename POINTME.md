@@ -4,13 +4,15 @@ A set of useful links and critical information.
 
 ## Overview
 
-This event is for the community to come together and discuss Ethereum, the improvement process, and other important issues.
+This event is for the community to come together and discuss Ethereum, the improvement process, and other issues. There will be Rings gathering individually, and the organizers will coordinate and post about meetings.
 
-There will be Rings gathering individually. Council planners will coordinate and post about meetings.
+[Website](https://ethereum-magicians.github.io/berlin-council-2019/)
 
-Read about the vision and background: [✨ Let’s create Magic and talk about what’s important in the Ethereum Ecosystem](https://medium.com/@AnettRolikova/lets-create-magic-and-talk-about-what-s-important-in-the-ethereum-ecosystem-45c94878fe3c) - Medium article by Anette
+Vision and background: [✨ Let’s create Magic and talk about what’s important in the Ethereum Ecosystem](https://medium.com/@AnettRolikova/lets-create-magic-and-talk-about-what-s-important-in-the-ethereum-ecosystem-45c94878fe3c) - Medium article by Anette
 
-Talk to each other on the [FEM Telegram Channel](https://t.me/ETHMagicians)
+[FEM Telegram Channel](https://t.me/ETHMagicians)
+
+[FEM Gitter Channel](https://gitter.im/ethereum-magicians/Lobby)
 
 
 ## Agenda
@@ -26,6 +28,6 @@ Individual Ring meetings can be held in Parity office. [Check the availability](
 
 Anette is this Council's coordinator.
 
-Get involved on the [Council Planners Telegram channel](https://t.me/ETHMagicians)
+[Council Planners Telegram channel](https://t.me/ETHMagicians)
 
 
