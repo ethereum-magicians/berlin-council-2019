@@ -4,7 +4,7 @@ Home of the website for the Ethereum Magicians Berlin Council 2019: [ethereum-ma
 
 Please _do_ share the website broadly, use the tag _#ethmagicians_
 
-Please _do_ file issues or pull requests with suggested changes to the website.
+Please _do_ file issues or pull requests with suggested changes to the website.[webiste](https://github.com/ethereum-magicians/berlin-council-2019/blob/master/README.md)
 
 Please _do_ join live chat in the [Telegram ETH Magicians Public](https://t.me/ETHMagicians)
 
