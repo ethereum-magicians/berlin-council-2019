@@ -6,7 +6,7 @@ A set of useful links and critical information.
 
 This event is for the community to come together and discuss Ethereum, the improvement process, and other issues. There will be Rings gathering individually, and the organizers will coordinate and post about meetings.
 
-[✨ Let’s create Magic and talk about what’s important in the Ethereum Ecosystem](https://medium.com/@AnettRolikova/lets-create-magic-and-talk-about-what-s-important-in-the-ethereum-ecosystem-45c94878fe3c) - Medium article by Anette
+[✨ Let’s create Magic and talk about what’s important in the Ethereum Ecosystem](https://medium.com/@AnettRolikova/lets-create-magic-and-talk-about-what-s-important-in-the-ethereum-ecosystem-45c94878fe3c) - Medium article by Anett
 
 ## Communications
 
