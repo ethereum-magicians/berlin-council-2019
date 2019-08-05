@@ -21,7 +21,7 @@ This event is for the community to come together and discuss Ethereum, the impro
 
 [Topics for Council & Individual Ring Meetings](https://docs.google.com/spreadsheets/d/16pYOZSjzDhOO5BTb7a3u_pBmU0529OsZPlgRw2DLkI0/edit#gid=0) - Google sheet
 
-Parity has offered their Berlin offices for Ring sessions! [Check the availability](https://docs.google.com/spreadsheets/d/1euyr7tOHtNLqK7fSoCkV3Oa4aS3iSww_DVdUUL54pRk/edit?usp=sharing) - Google sheet
+Parity has offered their Berlin offices for Ring sessions but maybe any meeting will no be there but there's location and availability [Check the availability](https://docs.google.com/spreadsheets/d/1euyr7tOHtNLqK7fSoCkV3Oa4aS3iSww_DVdUUL54pRk/edit?usp=sharing) - Google sheet
 
 ## Coordination / Volunteering
 
