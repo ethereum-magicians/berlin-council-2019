@@ -7,6 +7,7 @@ A set of useful links and critical information.
 This event is for the community to come together and discuss Ethereum, the improvement process, and other issues. There will be Rings gathering individually, and the organizers will coordinate and post about meetings.
 
 [✨ Let’s create Magic and talk about what’s important in the Ethereum Ecosystem](https://medium.com/@AnettRolikova/lets-create-magic-and-talk-about-what-s-important-in-the-ethereum-ecosystem-45c94878fe3c) - Medium article by Anett
+
 [FEM Council of Berlin 2019: Spice is in the air 🌶 ✨](https://medium.com/@AnettRolikova/fem-council-of-berlin-2019-spice-is-in-the-air-3b36bcc82039) - Medium article by Anett
 
 ## Communications
