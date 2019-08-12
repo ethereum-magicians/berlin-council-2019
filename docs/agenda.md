@@ -4,10 +4,24 @@ title: Agenda
 sidebar_link: true
 ---
 
-Please check out the [proposed agenda](https://ethereum-magicians.org/t/wiki-proposed-agenda-for-the-council-of-berlin-set-for-july-14-15/377) wiki on the EthMagicians forum.
+Please check out the [proposed agenda](https://ethereum-magicians.org/t/fem-council-sessions-of-berlin-2019-all-source/3535) wiki on the EthMagicians forum.
 
-We are making a "Call for Lightning EIP Talks". We want to provide space where people can live present their EIP, either as needed for discussion by all of the Magicians or by focused Working Groups. The format will be 3 slides and a 5 minute presentation, with a brief 5 minute Q&A session. These presentations will be livestreamed and recorded, and will help determine what gets discussed. Please [add your Lightning EIP Talk to the wiki](https://ethereum-magicians.org/t/wiki-proposed-agenda-for-the-council-of-berlin-set-for-july-14-15/377).
 
-Is your project or company interested in sponsoring to cover costs? Check out the [Sponsor Overview](https://docs.google.com/document/d/1oIErPvt0ElTJFypA5S06eYpAxHaF4Cef7DErWHVOT18/edit?usp=sharing).
+## Quick Overview (details are at the link above):
 
-If you would like to get notifications by email and/or to send us feedback privately, please  [fill out the sign up form](https://forms.gle/ndZLgjYszPFQLRsA8). Otherwise, stay tuned to this site and the new [@EthMagicians](https://twitter.com/EthMagicians) twitter handle.
+
+**Main Council** @ MetaCartel Demo Day 
+
+Aug 19th, 2pm - 5pm
+Berlin Institute of Technology
+
+
+**More Magicians** @ Web3 Summit
+
+Aug 20th, unknown times
+Funkhaus Berlin
+
+
+**Self-Organized Rings** @ wherever and whenever Rings can get together!
+
+But also at Parity's Berlin offices. Get your magic done at a really cool workspace.
